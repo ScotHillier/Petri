@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-user-client-side-solution",
+    "id": "6e005bd5-d4a5-4871-9875-507547328b89",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-user.sppkg"
+  }
+}

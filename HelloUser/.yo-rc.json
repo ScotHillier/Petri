@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "hello-user",
+    "libraryId": "6e005bd5-d4a5-4871-9875-507547328b89",
+    "framework": "react"
+  }
+}
